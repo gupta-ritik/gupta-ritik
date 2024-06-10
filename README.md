@@ -25,5 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gupta-ritik&show_icons=true&locale=en" alt="gupta-ritik" /></p>
 
-![Snake](https://raw.githubusercontent.com/gupta-ritik/gupta-ritik/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/gupta-ritik/gupta-ritik/output/github-contribution-grid-snake-dark.svg">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gupta-ritik&" alt="gupta-ritik" /></p>
