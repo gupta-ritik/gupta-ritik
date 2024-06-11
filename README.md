@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ritik Gupta</h1>
+<h3 align="center">A passionate frontend developer and ML EnthusiasticEthusu from India</h3>
 # 💫 About Me:
 🌱 I’m currently learning ML and Frontend Development<br><br>💬 Ask me about ML , ReactJS and JavaScript<br><br>📫 How to reach me ritik1262003@gmail.com<br><br>⚡ Fun fact problem-solving and logic puzzles
 
